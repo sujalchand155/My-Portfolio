@@ -1,7 +1,6 @@
 "use client";
 
 import Navbar from "@/components/navbar";
-import Footer from "@/components/footer";
 import { Typewriter } from "react-simple-typewriter";
 import Link from "next/link";
 
