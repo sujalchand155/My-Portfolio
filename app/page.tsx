@@ -10,7 +10,7 @@ export default function Home() {
       <Navbar />
       <div className="relative min-h-screen flex flex-col justify-center items-center bg-gradient-to-br from-gray-900 to-gray-700 text-white text-center px-6">
         <h1 className="text-5xl md:text-6xl font-bold">
-          Hi, I'm <span className="text-blue-400">Sujal Chand</span>
+          Hi, I&apos;m <span className="text-blue-400">Sujal Chand</span>
         </h1>
 
         {/* Typing Animation */}
@@ -40,7 +40,7 @@ export default function Home() {
         {/* Download Resume Button */}
         <div className="mt-8">
           <Link
-            href="https://drive.google.com/file/d/1I_-9stcPgLqiJZodDKNevAEXF1m3Ygqs/view?usp=drive_link" // Ensure this file is inside the `public/` folder
+            href="https://drive.google.com/file/d/1I_-9stcPgLqiJZodDKNevAEXF1m3Ygqs/view?usp=drive_link"
             target="_blank"
             download
             className="px-6 py-3 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-600 transition"
