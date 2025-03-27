@@ -26,6 +26,13 @@ export default function Projects() {
             image="/aqi.png"
             link="https://github.com/sujalchand155/AQI-Prediction.git"
           />
+
+            <ProjectCard
+            title="Attendance Using Face Recognition"
+            description="Attendance Management System that utilizes facial recognition to automate attendance tracking.
+            image="https://drive.google.com/file/d/13jUUh0TyXgkE7kf4NpmBvb5XNekrFGkj/view?usp=drive_link"
+            link="https://github.com/sujalchand155/attendance.git"
+          />
           
 
 
